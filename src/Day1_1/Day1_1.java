@@ -11,7 +11,7 @@ import java.util.Scanner;
 
 public class Day1_1 {
 
-    private final Path inputFilePath = Paths.get("./src/Day1/input.txt");
+    private final Path inputFilePath = Paths.get("./src/Day1_1/input.txt");
     private final ArrayList<Elf> elfList = new ArrayList<>();
 
     public static void main(String[] args) {
